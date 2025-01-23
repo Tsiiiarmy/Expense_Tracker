@@ -1,0 +1,4 @@
+#Mon Jan 20 20:00:53 EAT 2025
+base.0=C\:\\Users\\hp\\Downloads\\flutter_project\\my_pocket (2)\\my_pocket\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

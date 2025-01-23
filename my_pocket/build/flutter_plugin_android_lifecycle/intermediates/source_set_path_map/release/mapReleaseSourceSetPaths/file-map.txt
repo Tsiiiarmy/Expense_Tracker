@@ -1,0 +1,27 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.2.0-0 C:\Users\hp\.gradle\caches\8.10.2\transforms\0b586a5e1ecb425d13a57cd480658915\transformed\jetified-window-java-1.2.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-activity-1.8.1-1 C:\Users\hp\.gradle\caches\8.10.2\transforms\0fcaed2ff8440e7a007acd519649cf35\transformed\jetified-activity-1.8.1\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-runtime-2.7.0-2 C:\Users\hp\.gradle\caches\8.10.2\transforms\164bcc7f9e045665bf8cc334f57d9fa9\transformed\lifecycle-runtime-2.7.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-savedstate-1.2.1-3 C:\Users\hp\.gradle\caches\8.10.2\transforms\1eaa3ba61935f405c47cb5090486e061\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.2.0-4 C:\Users\hp\.gradle\caches\8.10.2\transforms\2c44005a1517542e17a121c8c08b5700\transformed\jetified-window-1.2.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-livedata-2.7.0-5 C:\Users\hp\.gradle\caches\8.10.2\transforms\35470344bc88ccafd030fcf9bfe59cb8\transformed\lifecycle-livedata-2.7.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-profileinstaller-1.3.1-6 C:\Users\hp\.gradle\caches\8.10.2\transforms\4d57068a132bffe9683de3ec1be96e58\transformed\jetified-profileinstaller-1.3.1\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.13.1-7 C:\Users\hp\.gradle\caches\8.10.2\transforms\66c9f4e31c04fe9b663da17539706786\transformed\core-1.13.1\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-lifecycle-livedata-core-ktx-2.7.0-8 C:\Users\hp\.gradle\caches\8.10.2\transforms\7a00ece2e36ffa38ab9be914deeb28b0\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-runtime-2.2.0-9 C:\Users\hp\.gradle\caches\8.10.2\transforms\7b7593cf8c66c2ab19addc55157aea34\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-startup-runtime-1.1.1-10 C:\Users\hp\.gradle\caches\8.10.2\transforms\802eb0d6c33147ef6b8074fcec14d440\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-fragment-1.7.1-11 C:\Users\hp\.gradle\caches\8.10.2\transforms\82b6b158a2b0b3b4ba0dd9465c80999e\transformed\fragment-1.7.1\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-lifecycle-process-2.7.0-12 C:\Users\hp\.gradle\caches\8.10.2\transforms\92dad9c6229fa57fc42e37be5926ed0e\transformed\jetified-lifecycle-process-2.7.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-core-ktx-1.13.1-13 C:\Users\hp\.gradle\caches\8.10.2\transforms\95c96d5d5a59f0232ec097ccbe863165\transformed\jetified-core-ktx-1.13.1\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-viewmodel-2.7.0-14 C:\Users\hp\.gradle\caches\8.10.2\transforms\b80252c108084a5ecc958e2a6d53873f\transformed\lifecycle-viewmodel-2.7.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-core-1.0.0-15 C:\Users\hp\.gradle\caches\8.10.2\transforms\b9081bba50b86e89d64b1caef2035f54\transformed\jetified-core-1.0.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-livedata-core-2.7.0-16 C:\Users\hp\.gradle\caches\8.10.2\transforms\c748276f20f60ae754259b72ea501062\transformed\lifecycle-livedata-core-2.7.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-lifecycle-viewmodel-savedstate-2.7.0-17 C:\Users\hp\.gradle\caches\8.10.2\transforms\f5c10e5188deb772c4c882587090e0f6\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.4.0-18 C:\Users\hp\.gradle\caches\8.10.2\transforms\f66ab00e1cadbd07d96d8a86d3a6142e\transformed\jetified-annotation-experimental-1.4.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-tracing-1.2.0-19 C:\Users\hp\.gradle\caches\8.10.2\transforms\fe1ab5499b48efe55e81f3556c3d0f01\transformed\jetified-tracing-1.2.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-20 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.24\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-21 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.24\android\src\release\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-22 C:\Users\hp\Downloads\flutter_project\my_pocket (2)\my_pocket\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-23 C:\Users\hp\Downloads\flutter_project\my_pocket (2)\my_pocket\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-24 C:\Users\hp\Downloads\flutter_project\my_pocket (2)\my_pocket\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-25 C:\Users\hp\Downloads\flutter_project\my_pocket (2)\my_pocket\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-26 C:\Users\hp\Downloads\flutter_project\my_pocket (2)\my_pocket\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release\mergeReleaseResources

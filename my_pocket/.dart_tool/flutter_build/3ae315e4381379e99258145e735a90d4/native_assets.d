@@ -1,0 +1,1 @@
+ C:\\Users\\hp\\Downloads\\flutter_project\\my_pocket\ (2)\\my_pocket\\.dart_tool\\flutter_build\\3ae315e4381379e99258145e735a90d4\\native_assets.yaml: 

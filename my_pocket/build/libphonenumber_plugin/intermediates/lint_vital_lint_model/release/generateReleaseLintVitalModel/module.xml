@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\libphonenumber_plugin-0.3.3\android"
+    name=":libphonenumber_plugin"
+    type="LIBRARY"
+    maven="com.example.libphonenumber_plugin:libphonenumber_plugin:1.0-SNAPSHOT"
+    agpVersion="8.7.3"
+    buildFolder="C:\Users\hp\Downloads\flutter_project\my_pocket (2)\my_pocket\build\libphonenumber_plugin"
+    bootClassPath="C:\Users\hp\AppData\Local\Android\sdk\platforms\android-31\android.jar;C:\Users\hp\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
